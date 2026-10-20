@@ -6,6 +6,7 @@ Exploring a personal always-on, proactive agent (inspired by Lee Robinson's Stan
 **Status:** Research and cost model done (2026-10-20). No code yet. Next: Bedrock token-logging experiment.
 
 ## Docs
+- `README.md`: public overview, current state and usage
 - `docs/research-always-on-agents.md`: summary of the talk's architecture and techniques
 - `docs/cost-model.md`: AWS account findings, confirmed infrastructure prices, token cost model
 - `docs/key-decisions.md`: decisions made so far (model routing, build tiers)
