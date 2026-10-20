@@ -1,0 +1,4 @@
+LOCAL.md
+.env
+*.jsonl
+.DS_Store
